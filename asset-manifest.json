@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NASA-WILDFIRE-TRACKER/static/css/main.23f9527f.chunk.css",
+    "main.js": "/NASA-WILDFIRE-TRACKER/static/js/main.fb087da1.chunk.js",
+    "main.js.map": "/NASA-WILDFIRE-TRACKER/static/js/main.fb087da1.chunk.js.map",
+    "runtime-main.js": "/NASA-WILDFIRE-TRACKER/static/js/runtime-main.f736ed3e.js",
+    "runtime-main.js.map": "/NASA-WILDFIRE-TRACKER/static/js/runtime-main.f736ed3e.js.map",
+    "static/js/2.4e425260.chunk.js": "/NASA-WILDFIRE-TRACKER/static/js/2.4e425260.chunk.js",
+    "static/js/2.4e425260.chunk.js.map": "/NASA-WILDFIRE-TRACKER/static/js/2.4e425260.chunk.js.map",
+    "static/js/3.790f4073.chunk.js": "/NASA-WILDFIRE-TRACKER/static/js/3.790f4073.chunk.js",
+    "static/js/3.790f4073.chunk.js.map": "/NASA-WILDFIRE-TRACKER/static/js/3.790f4073.chunk.js.map",
+    "index.html": "/NASA-WILDFIRE-TRACKER/index.html",
+    "static/css/main.23f9527f.chunk.css.map": "/NASA-WILDFIRE-TRACKER/static/css/main.23f9527f.chunk.css.map",
+    "static/js/2.4e425260.chunk.js.LICENSE.txt": "/NASA-WILDFIRE-TRACKER/static/js/2.4e425260.chunk.js.LICENSE.txt",
+    "static/media/loader.ac97dfd6.gif": "/NASA-WILDFIRE-TRACKER/static/media/loader.ac97dfd6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f736ed3e.js",
+    "static/js/2.4e425260.chunk.js",
+    "static/css/main.23f9527f.chunk.css",
+    "static/js/main.fb087da1.chunk.js"
+  ]
+}
